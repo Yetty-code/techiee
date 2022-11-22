@@ -1,0 +1,6 @@
+git init
+git add README.md
+git add Online Payment Fraud Detection Project.ipynb
+git commit -m "notebook first commit"
+git remote add origin https://github.com/techiee/Online Payment Fraud Detection.git
+git push -u origin master
